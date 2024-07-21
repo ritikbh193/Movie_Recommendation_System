@@ -1,0 +1,1 @@
+A movie recommendation project that suggests similar movies based on the selected movie. It works on the basic principles of Natural Language Processing, using vectorization and cosine similarity to predict the suggested movies.
