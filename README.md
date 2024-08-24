@@ -7,7 +7,7 @@ Utilizes movie datasets such as MovieLens or IMDB, including movie ratings, genr
 ### Data Preprocessing:
 Cleans and preprocesses data, including handling missing values,removing stopwords punctuation marks, grammar correction and encoding categorical features..
 ### Modeling:
-Implemented various machine learning models like Logistic Regression, Naive Bayes, and Support Vector Machines (SVM).
+Implemented various machine learning models like  Naive Bayes,Count vectorizer and Logistic Regression.
 ### Deep Learning Approach:
 Optional extension using LSTM/RNN with TensorFlow/Keras for more sophisticated sentiment analysis.
 ### Evaluation:
